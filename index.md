@@ -7,3 +7,11 @@
 #
 layout: home
 ---
+
+Entreprise spécialisée en consultation informatique.
+
+Distributeur certifié de solutions infonuagiques adaptées aux besoins des PME.
+
+Réparation et vente d'équipement informatique
+
+Pour tout besoin, écrivez-nous au [info@informatiqueboisvert.com](mailto:info@informatiqueboisvert.com)
